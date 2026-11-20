@@ -8,4 +8,4 @@
 #### PRD (model/random_tools.py)
 #### Uniform Grid (model/spatial_grid.py) 
 ## Запуск
-####запустить main.py
+#### запустить main.py
